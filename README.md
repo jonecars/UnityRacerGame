@@ -3,9 +3,8 @@
 This is my first time using a game engine.  I wanted to learn about how that works. (What is provided) I wanted to learn about how the physics work in Unity.  In this project I specifically learned more about how to use rigidbody, transform, and mesh colliders.
 
 I created a car obstacle dodging game.  To play the game you need to build and launch the game from Unity. Once created you can use the .exe to play the game.
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walk through of the code.}
+
 
 [Software Demo Video](https://youtu.be/iN1xA0fPr00)
 
