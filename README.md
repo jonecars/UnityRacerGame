@@ -1,8 +1,8 @@
 # Overview
 
-This is my first time using a game engine.  I wanted to learn about how that works. (What is provided) I wanted to learn about how the physics work in Unity.  In this project I specifically learned more about how to use rigidbody, transform, and mesh colliders.
+This is my first time using a game engine.  I wanted to learn about how that works. I wanted to learn about how the physics work in Unity.  In this project I specifically learned more about how to use rigidbody, transform, and mesh colliders.
 
-I created a car obstacle dodging game.  To play the game you need to build and launch the game from Unity. Once created you can use the .exe to play the game.
+I created a car obstacle-dodging game.  To play the game you need to build and launch the game from Unity. Once created you can use the .exe to play the game.
 
 
 
@@ -10,7 +10,6 @@ I created a car obstacle dodging game.  To play the game you need to build and l
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 C# was used with Unity to create the project. Visual Studio was used to create the scripts for the game.
 The Unity asset store helped in getting objects like the car and obstacles.  
 
